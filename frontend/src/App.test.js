@@ -1,6 +1,5 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
-import List from './components/List';
 
 it("Renders without crashing", () => {
   render(<App />);

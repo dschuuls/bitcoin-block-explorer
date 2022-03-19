@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useParams, Route } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 const Details = () => {
 
