@@ -2,6 +2,8 @@
 
 This is a simple Bitcoin Blockchain Explorer. The project consists of two parts, a backend and a frontend, each in a subfolder of the same name.
 
+![](screenshot.png)
+
 ## Backend
 
 The backend uses Node.js and Express. There's an API documentation available using SwaggerUI.
