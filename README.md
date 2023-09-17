@@ -1,6 +1,6 @@
-# Bitcoin Blockchain Explorer
+# Bitcoin Block Explorer
 
-This is a simple Bitcoin Blockchain Explorer. The project consists of two parts, a backend and a frontend, each in a subfolder of the same name.
+This is a simple Bitcoin Block Explorer. The project consists of two parts, a backend and a frontend, each in a subfolder of the same name.
 
 ![](screenshot.png)
 
